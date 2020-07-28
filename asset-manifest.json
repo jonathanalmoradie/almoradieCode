@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/almoradieCode/static/css/main.5f361e03.chunk.css",
+    "main.js": "/almoradieCode/static/js/main.8e480b97.chunk.js",
+    "main.js.map": "/almoradieCode/static/js/main.8e480b97.chunk.js.map",
+    "runtime-main.js": "/almoradieCode/static/js/runtime-main.137f0a68.js",
+    "runtime-main.js.map": "/almoradieCode/static/js/runtime-main.137f0a68.js.map",
+    "static/js/2.4c736102.chunk.js": "/almoradieCode/static/js/2.4c736102.chunk.js",
+    "static/js/2.4c736102.chunk.js.map": "/almoradieCode/static/js/2.4c736102.chunk.js.map",
+    "index.html": "/almoradieCode/index.html",
+    "precache-manifest.f7d29ef00dee95b5a5e104630343df34.js": "/almoradieCode/precache-manifest.f7d29ef00dee95b5a5e104630343df34.js",
+    "service-worker.js": "/almoradieCode/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/almoradieCode/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4c736102.chunk.js.LICENSE.txt": "/almoradieCode/static/js/2.4c736102.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/almoradieCode/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.137f0a68.js",
+    "static/js/2.4c736102.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8e480b97.chunk.js"
+  ]
+}

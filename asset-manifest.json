@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/almoradieCode/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/almoradieCode/static/js/main.c1a77762.chunk.js",
-    "main.js.map": "/almoradieCode/static/js/main.c1a77762.chunk.js.map",
+    "main.css": "/almoradieCode/static/css/main.8cc3d816.chunk.css",
+    "main.js": "/almoradieCode/static/js/main.68459f56.chunk.js",
+    "main.js.map": "/almoradieCode/static/js/main.68459f56.chunk.js.map",
     "runtime-main.js": "/almoradieCode/static/js/runtime-main.137f0a68.js",
     "runtime-main.js.map": "/almoradieCode/static/js/runtime-main.137f0a68.js.map",
-    "static/js/2.ca42dc3b.chunk.js": "/almoradieCode/static/js/2.ca42dc3b.chunk.js",
-    "static/js/2.ca42dc3b.chunk.js.map": "/almoradieCode/static/js/2.ca42dc3b.chunk.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/almoradieCode/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.795bbd07.chunk.js": "/almoradieCode/static/js/2.795bbd07.chunk.js",
+    "static/js/2.795bbd07.chunk.js.map": "/almoradieCode/static/js/2.795bbd07.chunk.js.map",
     "index.html": "/almoradieCode/index.html",
-    "precache-manifest.547bb3abac5309f3da1220eb249d33a3.js": "/almoradieCode/precache-manifest.547bb3abac5309f3da1220eb249d33a3.js",
+    "precache-manifest.7af308eb508a4b51b2afb500cfe8fca3.js": "/almoradieCode/precache-manifest.7af308eb508a4b51b2afb500cfe8fca3.js",
     "service-worker.js": "/almoradieCode/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/almoradieCode/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.ca42dc3b.chunk.js.LICENSE.txt": "/almoradieCode/static/js/2.ca42dc3b.chunk.js.LICENSE.txt"
+    "static/css/2.ed439b8d.chunk.css.map": "/almoradieCode/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.8cc3d816.chunk.css.map": "/almoradieCode/static/css/main.8cc3d816.chunk.css.map",
+    "static/js/2.795bbd07.chunk.js.LICENSE.txt": "/almoradieCode/static/js/2.795bbd07.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/almoradieCode/static/media/background3.875a7bd5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.137f0a68.js",
-    "static/js/2.ca42dc3b.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c1a77762.chunk.js"
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.795bbd07.chunk.js",
+    "static/css/main.8cc3d816.chunk.css",
+    "static/js/main.68459f56.chunk.js"
   ]
 }
